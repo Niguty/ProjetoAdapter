@@ -1,3 +1,5 @@
+LUCAS NIGUTI DOS SANTOS / RA: 22019975-2
+
 # Projeto: Adapter para Leitura de Pessoas via CSV
 
 ## Objetivo
